@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Eterna.csproj": {}
+    "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Eterna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Eterna.csproj": {
+    "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Eterna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Eterna.csproj",
+        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Eterna.csproj",
         "projectName": "Eterna",
-        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Eterna.csproj",
+        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Eterna.csproj",
         "packagesPath": "C:\\Users\\elchin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\obj\\",
+        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

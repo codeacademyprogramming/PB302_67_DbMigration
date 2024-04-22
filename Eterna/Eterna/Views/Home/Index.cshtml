@@ -8,38 +8,19 @@
 
             <div class="carousel-inner" role="listbox">
 
-                <!-- Slide 1 -->
-                <div class="carousel-item active" style="background-image: url(/img/slide/slide-1.jpg)">
-                    <div class="carousel-container">
-                        <div class="carousel-content">
-                            <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Eterna</span></h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+               @for (int i = 0; i < Model.Sliders.Count; i++)
+                {
+                    Slider slider = Model.Sliders[i];
+                    <div class="carousel-item @(i==0?"active":"")" style="background-image: url(/img/slide/@slider.ImageName)">
+                        <div class="carousel-container">
+                            <div class="carousel-content">
+                                <h2 class="animate__animated animate__fadeInDown">@slider.Title1 <span>@slider.Title2</span></h2>
+                                <p class="animate__animated animate__fadeInUp">@slider.Desc</p>
+                                <a href="@slider.BtnUrl" class="btn-get-started animate__animated animate__fadeInUp">@slider.BtnText</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-
-                <!-- Slide 2 -->
-                <div class="carousel-item" style="background-image: url(/img/slide/slide-2.jpg)">
-                    <div class="carousel-container">
-                        <div class="carousel-content">
-                            <h2 class="animate__animated fanimate__adeInDown">Lorem <span>Ipsum Dolor</span></h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Slide 3 -->
-                <div class="carousel-item" style="background-image: url(/img/slide/slide-3.jpg)">
-                    <div class="carousel-container">
-                        <div class="carousel-content">
-                            <h2 class="animate__animated animate__fadeInDown">Sequi ea <span>Dime Lara</span></h2>
-                            <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                            <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
-                        </div>
-                    </div>
-                </div>
+                }
 
             </div>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbEkzUK15ZFSG2i/6R+2twzQJq19fPiMLfwcKGeb18HRLgPOTv3AgguqJldy0SrP7lujvMKkbCbQXrFK2kHTpg==",
+  "dgSpecHash": "H6QORX9FHzczdqHTqs1uLtklojsEXT4IiU0bYgMwWnd3lnCN2fd+IWxYtg5qIq4VahpVVOTdOnj9Es6RoXAlDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Eterna.csproj",
+  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Eterna.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elchin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\elchin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

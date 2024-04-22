@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\",
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\67. 18-04-2024\\eterna\\eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\67. 18-04-2024\\pb302_67_dbmigration\\eterna\\eterna\\views\\portfolio\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|solutionrelative:views\\portfolio\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\67. 18-04-2024\\pb302_67_dbmigration\\eterna\\eterna\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\67. 18-04-2024\\pb302_67_dbmigration\\eterna\\eterna\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0558BE90-BC8B-4423-82AA-10D40CEDA3D7}|Eterna.csproj|solutionrelative:views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T16:02:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Views\\Portfolio\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Views\\Portfolio\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Detail.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T15:57:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PortfolioController.cs",
-              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Controllers\\PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
-              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\Eterna\\Eterna\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\67. 18-04-2024\\PB302_67_DbMigration\\Eterna\\Eterna\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "Controllers\\PortfolioController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAfAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T17:30:25.347Z",
+              "WhenOpened": "2024-04-22T15:56:34.117Z",
               "EditorCaption": ""
             }
           ]
